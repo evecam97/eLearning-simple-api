@@ -7,15 +7,7 @@ const port = 3000;
 
 app.use(bodyParser.json());
 
-app.get('/students', (req, res) => {
-  try {
-    const students = getStudentsInfo();
-    res.send(students);
-  } catch (error) {
-    console.error("error")
-    res.status(500).send(error)
-  }
-});
+
 
 app.get('/courses', (req, res) => {
   try {
