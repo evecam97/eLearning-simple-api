@@ -1,0 +1,33 @@
+{
+    "courses": [
+        {
+            "course": "English",
+            "lessons": [
+                "Grammar",
+                "Vocabulary"
+            ]
+        },
+        {
+            "course": "Mathematics",
+            "lessons": [
+                "Calc 1",
+                "Calc 2"
+            ]
+        },
+        {
+            "course": "Algorithms",
+            "lessons": [
+                "Programming 1",
+                "Programming 2"
+            ]
+        },
+        {
+            "course": "Art",
+            "lessons": [
+                "Draw",
+                "Music",
+                "Photography"
+            ]
+        }
+    ]
+}

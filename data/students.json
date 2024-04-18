@@ -1,0 +1,43 @@
+{
+    "students": [
+        {
+            "name": "Marth",
+            "courses": [
+                {
+                    "course": "English",
+                    "score":"",
+                    "lessons":[
+                        "Grammar"
+                    ]
+
+                }
+            ]
+        },
+        {
+            "name": "Azariel",
+            "courses": [
+                {
+                    "course": "Mathematics",
+                    "score":"",
+                    "lessons":[
+                        "Calc 1"
+                    ]
+
+                }
+            ]
+        },
+        {
+            "name": "Mio",
+            "courses": [
+                {
+                    "course": "Algorithms",
+                    "score":"",
+                    "lessons":[
+                        "Programming 1"
+                    ]
+
+                }
+            ]
+        }
+    ]
+}

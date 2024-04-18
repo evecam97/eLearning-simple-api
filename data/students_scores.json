@@ -1,0 +1,66 @@
+{
+    "scores": [
+        {
+            "student": "Anna"
+        },
+        {
+            "student": "Mio",
+            "lessons": [
+                {
+                    "lesson": "calc1",
+                    "score": 10,
+                    "result": "Approved",
+                    "answers": [
+                        {
+                            "1": {
+                                "answer": [
+                                    "A"
+                                ]
+                            },
+                            "2": {
+                                "answer": [
+                                    "C",
+                                    "B"
+                                ]
+                            },
+                            "3": {
+                                "answer": [
+                                    "A",
+                                    "B",
+                                    "D"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "lesson": "grammar",
+                    "score": 6,
+                    "result": "Failed",
+                    "answers": [
+                        {
+                            "1": {
+                                "answer": [
+                                    "T"
+                                ]
+                            },
+                            "2": {
+                                "answer": [
+                                    "C",
+                                    "B"
+                                ]
+                            },
+                            "3": {
+                                "answer": [
+                                    "C",
+                                    "B",
+                                    "D"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

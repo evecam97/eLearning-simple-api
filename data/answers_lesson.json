@@ -1,0 +1,50 @@
+{
+    "lesson": [
+        {
+            "name": "calc1",
+            "approvalTreshold":6,
+            "answers": [
+                {
+                    "1": {
+                        "answer":["A"],
+                        "answerType":1,
+                        "score":2
+                    },
+                    "2":{
+                        "answer":["A","B"],
+                        "answerType":2,
+                        "score":4
+                    },
+                    "3": {
+                        "answer":["A","B","D"],
+                        "answerType":3,
+                        "score":4
+                    }
+                }
+            ]
+        },
+        {
+            "name": "grammar",
+            "approvalTreshold":8,
+            "answers": [
+                {
+                    "1": {
+                        "answer":["T"],
+                        "answerType":1,
+                        "score":2
+                    },
+                    "2":{
+                        "answer":["A","B"],
+                        "answerType":3,
+                        "score":4
+                    },
+                    "3": {
+                        "answer":["A","B","D"],
+                        "answerType":2,
+                        "score":4
+                    }
+                }
+            ]
+        }
+    ]
+}
